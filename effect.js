@@ -283,7 +283,7 @@ $('document').ready(function(){
 	});
 
 	$('#picture_time').click(function(){
-		window.location.replace("src/html/surprise.html")
+		window.location.replace("surprise.html")
 		
 	});
 });
